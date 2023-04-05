@@ -1,5 +1,6 @@
 # AlgorithmicBias
 A Research Analysis on AI Algorithmic Bias
+Written by Arash Dewan
 
 Artificial intelligence, with its foundation in mathematics and logistics, is leading us closer to the future through the capabilities of algorithms and machine learning procedures. However, the lack of transparency and understanding of these ‘black boxes’ is becoming a growing concern as they gain more control over our daily lives. Research and studies have raised questions about the algorithmic bias embedded in these datasets and how they can unfairly impact individuals. The utilization of these algorithms are even predominant within the criminal justice system—determining bail, sentencing, criminal identification, along with various other contributions. Within the findings, it is notably evident that computational algorithms have a disproportionate bias that goes beyond chance and instead is contributing to a world of automated racism.
 
